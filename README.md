@@ -1,9 +1,9 @@
 # SpeakToGPT
 
-## What does SpeakGPT do?
+## What does SpeakToGPT do?
 
 Enables users to have a conversatiion with GPT using voice instead of text.
 
-## How does SpeakGPT work?
+## How does SpeakToGPT work?
 
-SpeakGPT is powered by the Azure OpenAI, Speech to Text, and Text to Speech services.
+SpeakToGPT is powered by the Azure OpenAI, Speech to Text, and Text to Speech services.
